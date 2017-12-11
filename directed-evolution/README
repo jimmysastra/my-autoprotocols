@@ -1,0 +1,6 @@
+pglo-init-from-kit.py
+pglo-spread-from-tube.py
+while 
+  pglo-pick-to-96-flat.py
+  pglo-spread-from-96-flat.py
+end
